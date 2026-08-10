@@ -41,13 +41,17 @@
 STEP 1:
      git clone
      YOUR_GITHUB_REPOSITORY_LINK
+     
 STEP 2:
      Open the project in VS Code or Jupyter Notebook.
+     
 STEP 3:
      Install required libraries:
      pip install pandas, numpy, matplotlib, openpyxl 
+     
 STEP 4:
      Place the dataset inside the data folder.
+     
 STEP 5:
      Run the Python program or Jupyter Notebook.
 
@@ -92,7 +96,7 @@ ALOK KUMAR SINGH
 BCA|ASPIRING DATA ANALYST
 
 SKILLS 
-Python | NumPy | Pandas | Matplotlib | SQL | Excel | Data Analytics  
+Python | NumPy | Pandas | Matplotlib | SQL | Excel  
 
  
 
