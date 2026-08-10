@@ -34,7 +34,7 @@
 7. City Analysis
 8. Monthly Trend Analysis
 9. Data Visualization
-10.Business Storytelling
+10. Business Storytelling
 
 ## HOW TO RUN THE PROJECT
 
